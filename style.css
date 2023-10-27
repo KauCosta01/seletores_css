@@ -1,0 +1,15 @@
+/* SELETOR GLOBAL seleciona todos os elementos do html*/
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* seletor pela tag */
+p {
+    color: rgb(145, 232, 147);
+}
+
+/* seletor pela classe */
+.terra_plana {
+    border: 1px solid green;
+    color: chartreuse;
+}
